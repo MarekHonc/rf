@@ -1,8 +1,8 @@
 - [Úvod](uvod.md)
-- [Co děláme](co děláme.md)
+- [Co děláme](codeláme.md)
 - [Náš příběh](pribeh.md)
 - [Naše stavby](projekty.md)
-- [Jak funguje Wankelův motor](jak funguje.md)
+- [Jak funguje Wankelův motor](jakfunguje.md)
 - [Kontakt](kontakt.md)
 
 <!-- Hero sekce -->
