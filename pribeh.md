@@ -43,7 +43,7 @@ V tomto roce k nám dorazila i první **Mazda RX-7 (FD3S)**, kterou jsme vrátil
 ---
 
 ## 2025 – RotaryFactory na 100 %
-Opustili jsme hlavní zaměstnání a naplno se věnujeme servisu a stavbě Wankel motorů.  
+Z koníčku se stala profese, naplno se věnujeme servisu a stavbě Wankel motorů.  
 Spojili jsme síly s **Xeno z Rotary Secret Garage** a společně postavili první hybridní motory pro okruhové závody – atmosférické i přeplňované.  
 Vznikl také unikátní **prototyp dvoumotoru s jednotkami 13B-MSP**.  
 
