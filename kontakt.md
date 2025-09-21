@@ -22,14 +22,13 @@ Adresa: Bílý Kostel nad Nisou 116, 463 31, Chrastava, Česká republika
 📧 E-mail: rotaryfactory@seznam.cz  
 
 🕒 **Otevírací doba:**  
-- Po–Pá: 9:00 – 17:00  
-- So–Ne: dle domluvy  
+- Po–Pá: 9:00 – 17:00 ? 
+- So–Ne: dle domluvy  ?
 
 ---
 
 ## Najdete nás
-[Mapa Google – iframe]  
-*(doporučuji vložit přímo do stránky přes WordPress blok „Mapy Google“ nebo plugin)*
+[Mapa Google/OSM – iframe] 
 
 ---
 

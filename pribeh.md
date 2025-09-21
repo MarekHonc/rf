@@ -15,8 +15,8 @@ RotaryFactory vzniklo z vášně k rotačním motorům a odhodlání posouvat hr
 
 ## 2021 – Všechno to začalo jednou RX-8
 Všechno se začalo psát v roce 2021, kdy jsme pořídili Mazdu RX-8.  
-Tehdy šlo o nedokončený drift projekt s motorem z BMW 528i. Brzy ale padlo rozhodnutí vrátit RX-8 její pravou identitu – **legendární Wankelův motor**.  
-BMW šlo pryč, nahradila ho jednotka **13B-MSP**, a vznikla naše první generální oprava rotačního motoru. Celý rok jsme věnovali stavbě driftového projektu.
+Tehdy šlo o nedokončený drift projekt s motorem M52B28TU z BMW 528i. Brzy ale padlo rozhodnutí vrátit RX-8 její pravou identitu – **legendární Wankelův motor**.  
+BMW motor šel z mazdy pryč pryč, nahradila ho jednotka **13B-MSP**. Vznikla tak naše první generální oprava rotačního motoru. Celý rok jsme věnovali stavbě drift projektu.
 
 ---
 
