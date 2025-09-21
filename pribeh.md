@@ -1,5 +1,5 @@
 - [Úvod](uvod.md)
-- [Co děláme](codeláme.md)
+- [Co děláme](codelame.md)
 - [Náš příběh](pribeh.md)
 - [Naše stavby](projekty.md)
 - [Jak funguje Wankelův motor](jakfunguje.md)
